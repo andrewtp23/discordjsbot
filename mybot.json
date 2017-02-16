@@ -1,0 +1,5 @@
+{
+  "!foo": "bar!",
+  "!ping": "I'm not saying pong.",
+  "!commands": "!foo\n!ping\n\nUse # to chat with the bot"
+}
